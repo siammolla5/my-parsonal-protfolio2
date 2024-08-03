@@ -1,0 +1,66 @@
+body{
+  background-image:url(./pngtree-single-tree-sits-on-the-grassy-hill-picture-image_3171332.jpg);
+  background-repeat:none;
+  background-position: center;
+  padding-left: 10px;
+}
+.world-img{
+    height: 20px;
+    width: 20px;
+}
+.left-div{
+    width: 70%;
+}
+.right-div{
+    padding-left: 80px;
+    border: 2px solid red;
+    padding: 10px;
+    text-align: center;
+    background-color: black; 
+}
+.login-dive{
+    color: red;
+    background-color: rgb(51, 229, 28); 
+    border: 1px solid yellow;
+    padding: 5px;
+}
+.login-hear{
+    color: aqua;
+}
+.Searsh{
+    text-align: right;
+    color: orange;
+    border: 2px solid black;  
+}
+.main-div{
+    display: flex;
+}
+.web-design{
+    color: lime;
+}
+.Development{
+    color: chocolate;
+}
+.coures{
+    color: red;
+}
+.peragrph{
+    color: rgb(7, 15, 241);
+}
+.Searsh{
+    border-radius: 5px;
+    background-color: cadetblue;
+   
+}
+.account{
+    color: rgb(0, 171, 3);
+}
+.sign{
+    color: coral;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+}
+
